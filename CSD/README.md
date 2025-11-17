@@ -1,1 +1,0 @@
-Concurrencia y sistemas distribuidos
