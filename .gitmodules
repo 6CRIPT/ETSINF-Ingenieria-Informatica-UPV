@@ -1,0 +1,6 @@
+[submodule "etsinf2"]
+	path = etsinf2
+	url = https://github.com/6CRIPT/etsinf2.git
+[submodule "etsinf4"]
+	path = etsinf4
+	url = https://github.com/6CRIPT/etsinf4.git
